@@ -12,29 +12,27 @@ Starting the application would show a list of items avaliable for purchase. The 
 ###Working Flow
 * Start Prompt
 ![Bamazon 1](/images/Bamazon1.png)
-Format: ![Start](about:blank)
 
 * Chosing not to shop
 ![Bamazon 2](/images/Bamazon2.png)
-Format: ![Start](about:blank)
+
 
 * Chosing Yes to shop- prompting a list of items to choose from.
 ![Bamazon 3](/images/Bamazon3.png)
-Format: ![Start](about:blank)
+
 
 * Once chosen an iten to purchase - asks for the wanted quantity of that item
 ![Bamazon 4](/images/Bamazon4.png)
-Format: ![Start](about:blank)
+
 
 * If quantity of item is larger than in stock, it shows insufficient quantity- and then prompts if the user would like to shop again.
 ![Bamazon 6](/images/Bamazon6.png)
-Format: ![Start](about:blank)
+
 
 * If the user chooses a quantity of the item that is in stock, it will prompt the quantitiy desired, the item chosen, and the total.
 ![Bamazon 5](/images/Bamazon5.png)
-Format: ![Start](about:blank)
+
 
 
 ##Database
 ![BamazonDatabase](/images/BamazonDatabase.png)
-Format: ![Start](about:blank)
